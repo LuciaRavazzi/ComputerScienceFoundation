@@ -4,7 +4,7 @@ This project aims to design and implement several queries written in python. Pro
 
 The repository is made of:
 <ul>
-  <li>Dataset: thid folder collects all dataset used of the project. </li>
+  <li>Dataset: this folder collects all dataset used of the project. </li>
   <li> Progetto.ipynb: jupyter notebook containing the code </li>
  </ul>
 
